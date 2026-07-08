@@ -1,5 +1,3 @@
-CREATE DATABASE cine;
-
 USE cine;
 
 CREATE TABLE peliculas (
